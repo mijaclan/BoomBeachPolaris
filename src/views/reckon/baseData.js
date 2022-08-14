@@ -279,6 +279,16 @@ const baseData = [
     retention: true, // 暂时无数据参考战舰技能的，获取数据后更新 retentionTime
     retentionTime: 1.830
   },{
+    id: 260,
+    name: '超级野人',
+    count: 0,
+    initialEnergy: 8,
+    incrementEnergy: 5,
+    consumedEnergy: [],
+    nextEnergy: 8,
+    retention: true, // 暂时无数据参考战舰技能的，获取数据后更新 retentionTime
+    retentionTime: 3.150
+  },{
     id: 27,
     name: '水晶护盾',
     count: 0,
