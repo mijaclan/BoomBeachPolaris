@@ -9,4 +9,5 @@ export default {
       resolvers: [VantResolver()],
     }),
   ],
+  base: '/boom-beach-polaris/'
 };
