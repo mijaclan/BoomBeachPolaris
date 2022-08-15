@@ -60,7 +60,7 @@
 
 <script>
 import {Icon, List} from 'vant';
-import baseData from "./baseData";
+import baseData from "../../../mock/baseData";
 import {computed, onMounted, ref, watch} from 'vue';
 
 export default {
