@@ -9,5 +9,8 @@ export default {
       resolvers: [VantResolver()],
     }),
   ],
-  base: '/boom-beach-polaris/'
+  // other page settings basePath
+  // base: '/boom-beach-polaris/'
+  // GitHub page settings basePath
+  base: './'
 };
