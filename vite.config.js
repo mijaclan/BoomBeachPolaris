@@ -12,5 +12,5 @@ export default {
   // other page settings basePath
   // base: '/boom-beach-polaris/'
   // GitHub page settings basePath
-  // base: '/'
+  base: ''
 };
