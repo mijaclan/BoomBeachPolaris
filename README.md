@@ -2,7 +2,7 @@
 ## 海岛奇兵 x 北极星
 
 
-## 安装包
+## 海岛奇兵各平台安装包
 下载地址：
 [360](https://files.catbox.moe/oa625a.apk)  
 [4399](https://files.catbox.moe/fn0y47.apk)  
